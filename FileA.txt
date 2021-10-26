@@ -1,0 +1,4 @@
+this is fileA.
+Added this sentence after commiting for the first time;
+This change is commited using --amend command;
+This change is commited using --amend command for the 2nd time;
